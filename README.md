@@ -5,7 +5,8 @@ An interactive business intelligence dashboard designed to analyze customer chur
 ---
 
 ## 📊 Dashboard Overview
-<img width="1279" height="813" alt="Dashboard" src="https://github.com/user-attachments/assets/4c42b307-c118-4409-a8d7-65a99d245574" />
+<img width="1275" height="805" alt="Dashboard" src="https://github.com/user-attachments/assets/0e681af4-f2ce-4ad3-ae57-a6ebe276c75e" />
+
 
 The **Bank Customer Churn and Retention Analysis Dashboard** provides comprehensive insights into customer behavior, geographic distribution, and risk factors associated with customer churn across a portfolio of 10,000 customers[cite: 2].
 
